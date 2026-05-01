@@ -237,7 +237,7 @@ export default function Home() {
       </section>
 
       <footer>
-        <p>© 2025 Glow & Bloom — Makeup Artist & Buket Bunga | Amelia</p>
+        <p>© 2025 AsyaBuket — Makeup Artist & Buket Bunga | Amelia</p>
       </footer>
     </>
   );
