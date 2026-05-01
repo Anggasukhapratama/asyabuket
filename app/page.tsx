@@ -33,8 +33,8 @@ export default function Home() {
       {/* Navbar */}
       <nav className={`navbar ${scrolled ? "scrolled" : ""}`}>
         <div className="logo">
+          <span>Asya</span>
           <span>Glow</span>
-          <span>&Bloom</span>
         </div>
         <div className="menu-icon" onClick={toggleMenu}>
           <i className={menuOpen ? "fas fa-times" : "fas fa-bars"}></i>
@@ -237,7 +237,7 @@ export default function Home() {
       </section>
 
       <footer>
-        <p>© 2025 AsyaBuket — Makeup Artist & Buket Bunga | Amelia</p>
+        <p>© 2025 AsyaGlow — Makeup Artist & Buket Bunga | Amelia</p>
       </footer>
     </>
   );
